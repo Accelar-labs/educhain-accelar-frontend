@@ -31,7 +31,7 @@
     "ansi-to-html": "^0.7.2",
     "contentful": "^10.5.1",
     "cronstrue": "^2.48.0",
-    "dompurify": "^3.0.8",
+    "dompurify": "^3.2.4",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
     "ethers": "^6.13.1",
@@ -64,7 +64,7 @@
     "swiper": "^11.1.9",
     "tailwind-scrollbar": "^3.0.5",
     "viem": "^2.5.0",
-    "wagmi": "^2.5.2",
+    "wagmi": "^2.14.11",
     "yup": "^1.2.0"
   },
   "devDependencies": {
