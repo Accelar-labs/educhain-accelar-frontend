@@ -64,7 +64,7 @@
     "swiper": "^11.1.9",
     "tailwind-scrollbar": "^3.0.5",
     "viem": "^2.5.0",
-    "wagmi": "^2.5.2",
+    "wagmi": "^3.0.0",
     "yup": "^1.2.0"
   },
   "devDependencies": {
